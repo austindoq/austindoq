@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @austindoq
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Austin!
+- 🌱 I’m currently learning Python and will be documenting the journey here. 
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: Send me a message here!
 
